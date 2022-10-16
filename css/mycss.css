@@ -1,0 +1,45 @@
+.kirmizi{
+    background-color: red;
+}
+
+.bg-blueviolet{
+    background-color: blueviolet;
+}
+.bg-gray{
+   background-color: rgb(155,155,155);
+}
+.bg-white{
+    background-color: white;
+}
+.category{
+    font-size: smaller;
+    font-family: calibri;
+    font-style: italic;
+
+
+}
+.corusel_width{
+    width: 50px;
+}
+.border-gray{
+    color:gray;
+}
+.fs-11{
+    font-size: 11px;
+}
+
+.fs-8{
+    font-size: 8px;
+}
+.fs-10{
+    font-size: 10px;
+}
+.fs-9{
+    font-size: 9px;
+}
+.bs-btn-bg-orange{
+    background-color: rgb(255, 127, 53);
+}
+.fav-icon{
+    line-height: 2.4!important;
+}
